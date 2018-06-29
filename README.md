@@ -26,6 +26,9 @@ Firstly you need to clone this repo:
 
 Go to destination folder:
 >cd chatApp
+
+Next:
+
 >cd test
 
 ### After that install project dependencies by executing:
