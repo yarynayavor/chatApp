@@ -6,7 +6,7 @@ A real-time chat application
 
 Firstly you need to install [Node.js](https://nodejs.org/en/)
 
-Then you need to check **Node** version:
+Then you need to check **Node** version :
 >node -v
 
 And **npm** version:
